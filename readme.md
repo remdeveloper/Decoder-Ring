@@ -2,7 +2,7 @@
 
 A cipher is an algorithm for performing encryption or decryption. It can be used to send secret messages. Learned how to implement javascript fundamentals to create useful tools.
 
-Live demo: https://remdeveloper.github.io/project-decoder-ring/
+Live demo: https://remdeveloper.github.io/Decoder-Ring/
 
 ## Application Summary:
 
