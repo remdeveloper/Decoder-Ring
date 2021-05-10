@@ -132,8 +132,3 @@ substitution("jrufscpw", "xoyqmcgrukswaflnthdjpzibev", false); //> 'thinkful'
 substitution("thinkful", "short"); //> false
 substitution("thinkful", "abcabcabcabcabcabcabcabcyz"); //> false
 ```
-
-# Decoder-Ring
-# Decoder-Ring
-# Decoder-Ring
-# Decoder-Ring
