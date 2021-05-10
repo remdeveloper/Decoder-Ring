@@ -8,6 +8,27 @@ Live demo: https://remdeveloper.github.io/project-decoder-ring/
 
 A two-way cipher encoding/decoding app for three different ciphers (Caesar, Polybius, and Substitution), as well as accompanying self-implemented test cases for each of the ciphers using Mocha and Chai. Each function takes in a string that satisfies a specific set of criteria and returns an encoded or decoded string based on the user's selection.
 
+## Project setup
+
+Follow the instructions below to get this project up and running on your own machine:
+
+- Fork and clone this repository.
+- Run `npm install` to install the dependencies needed for this project.
+
+To run the tests, you can run the following command:
+
+```bash
+npm test
+```
+
+To watch how the code you write affects the application website, you can run the following command, which will start a server and take over your terminal window:
+
+```bash
+npm start
+```
+
+To stop the server and regain control of your terminal, you can press `Ctrl + C`.
+
 ## Caesar Shift
 
 ![Caesar shift](https://github.com/Thinkful-Ed/project-decoder-ring/blob/master/docs/home.png?raw=true)
